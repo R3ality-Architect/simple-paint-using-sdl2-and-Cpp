@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="paint/paint.vcxproj" Id="24ba2e41-ac2f-4fcb-acd0-12eb9dedab82" />
+</Solution>
