@@ -89,6 +89,8 @@ Both Debug and Release configurations are available.
 
 ```
 simple-paint-using-sdl2-and-Cpp/
+├── images/
+│   └── screenshot.png        # README screenshot
 ├── paint/
 │   ├── main.cpp              # Main application source
 │   ├── paint.vcxproj         # Visual Studio project file
