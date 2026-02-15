@@ -20,7 +20,7 @@ A lightweight paint application built with SDL2 and C++ featuring a simple drawi
 
 ## Screenshots
 
-![Ultra Paint Application](screenshot.png)
+![Ultra Paint Application](images/screenshot.png)
 
 *The application features an 8-color palette at the top and a 900x600 pixel drawing canvas*
 
